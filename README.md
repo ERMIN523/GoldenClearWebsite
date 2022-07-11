@@ -1,3 +1,3 @@
-# angular-ivy-t3k2uk
+# Szybka strona TypeScript
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-t3k2uk)
+Czysta strona bez css
